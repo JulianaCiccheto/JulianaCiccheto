@@ -12,8 +12,9 @@ I am an ecologist passionate about understanding how landscape structure and cli
 
 ## 💻 Programming 
 
-[<img align="left" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo"/>](https://www.r-project.org/)  
-[<img align="left" width="28px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" alt="Fortran Logo"/>](https://fortran-lang.org/)  
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R Logo"/>](https://www.r-project.org/)  
+[<img align="left" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fortran/fortran-original.svg" alt="Fortran Logo"/>](https://fortran-lang.org/)  
+
 <br clear="left" />
 
 Currently working with **R** and **Fortran**,  
