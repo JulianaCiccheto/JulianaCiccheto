@@ -1,4 +1,4 @@
-# 🖥️ Hi, I'm Juliana
+# 👩‍💻 Hi, I'm Juliana
 
 **`PhD Candidate`**
 
