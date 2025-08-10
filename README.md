@@ -5,10 +5,10 @@
 I am an ecologist passionate about understanding how landscape structure and climate change impact biodiversity. Currently, I am a PhD candidate at the Biological Interactions Lab at UFPR. My research focuses on integrating computational models with empirical biodiversity data to better understand evolutionary processes.
 
 ## 🔬 Research Interests
-- Landscape ecology 
-- Macroecology  
-- Evolutionary biology  
-- Host-parasite interactions  
+- Landscape ecology; 
+- Macroecology;  
+- Evolutionary biology;  
+- Host-parasite interactions.  
 
 ## 💻 Programming 
 
